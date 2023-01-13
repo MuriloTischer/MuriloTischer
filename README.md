@@ -9,18 +9,24 @@
     
 
   
-  <div align="center"><br>
-    <img align="center" alt="Mu-Java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="Mu-PostgreSQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <div align="left"><br>
+    <img align="center" alt="Mu-Java" height="70" width="90" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Mu-PostgreSQL" height="70" width="75" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     
   </div> 
      <br/>
-     <div align="center">
-   <a href = "mailto:murilotischer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/murilo-tadeu-d-tischer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://youtube.com/@murilotischer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/murilotischer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    </div>
+  <div align="left">
+     <a href = "mailto:murilotischer@gmail.com">
+         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/murilo-tadeu-d-tischer" target="_blank">
+         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://youtube.com/@murilotischer" target="_blank">
+         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/murilotischer" target="_blank">
+         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   </div>
 
 
 
@@ -29,8 +35,10 @@
 <!--
 **MuriloTischer** 
 ----
- <img align="center" alt="Mu-Flutter" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-       <img align="center" alt="Mu-Dart" height="75" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+ <img align="center" alt="Mu-Flutter" height="75" width="100" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+       <img align="center" alt="Mu-Dart" height="75" width="100" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 ----
 
 - 🔭 I’m currently working on ...
