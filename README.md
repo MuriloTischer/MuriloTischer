@@ -7,11 +7,7 @@
 
 
     
-<div align="center">
-  <a href="https://github.com/MuriloTischer">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
   <div align="center"><br>
     <img align="center" alt="Mu-Java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -45,4 +41,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div align="center">
+  <a href="https://github.com/MuriloTischer">
+  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
+</div>
 -->
+
+
+
