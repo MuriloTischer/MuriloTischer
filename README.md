@@ -4,12 +4,12 @@
 ##### - 🌱 I’m currently learning the language java and other things...
 ##### - 💬 Ask me about anything that you want...
 ##### - 📫 How to reach me: (send me a e-mail for: murilo@ararati.com.br )...
-
+##
 
 <div align="left">
   <a href="https://github.com/MuriloTischer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 <div align="left">
@@ -22,7 +22,8 @@
       <a href="https://www.instagram.com/murilotischer" target="_blank">
          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  </div>
-    
+  
+  ##
 <br/>
    <div align="left">
     <img align="center" alt="Mu-Java" height="70" width="90" 
@@ -31,7 +32,8 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     
   </div> 
-
+  
+  ##
 
 <!--
 **MuriloTischer** 
