@@ -6,30 +6,31 @@
 ##### - 📫 How to reach me: (send me a e-mail for: murilo@ararati.com.br )...
 
 
+<div align="left">
+  <a href="https://github.com/MuriloTischer">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
+</div>
     
-
-  
-  <div align="left"><br>
+<div align="left">
+     <a href = "mailto:murilotischer@gmail.com">
+         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+     <a href="https://www.linkedin.com/in/murilo-tadeu-d-tischer" target="_blank">
+         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
+     <a href="https://youtube.com/@murilotischer" target="_blank">
+         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/murilotischer" target="_blank">
+         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ </div>
+    
+<br/>
+   <div align="left">
     <img align="center" alt="Mu-Java" height="70" width="90" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Mu-PostgreSQL" height="70" width="75" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     
   </div> 
-     <br/>
-  <div align="left">
-     <a href = "mailto:murilotischer@gmail.com">
-         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/murilo-tadeu-d-tischer" target="_blank">
-         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://youtube.com/@murilotischer" target="_blank">
-         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-      <a href="https://www.instagram.com/murilotischer" target="_blank">
-         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   </div>
-
-
-
 
 
 <!--
@@ -50,12 +51,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<div align="center">
-  <a href="https://github.com/MuriloTischer">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
-</div>
 -->
 
 
