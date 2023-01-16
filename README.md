@@ -1,11 +1,3 @@
-## Oi! Eu sou o Murilo!! 👋
-
-##### - 🔭 I’m currently working on ARARA TI TECNOLOGIA DA INFORMAÇÃO...
-##### - 🌱 I’m currently learning the language java and other things...
-##### - 💬 Ask me about anything that you want...
-##### - 📫 How to reach me: (send me a e-mail for: murilo@ararati.com.br )...
-##
-
 <div align="left">
      <a href = "mailto:murilotischer@gmail.com">
          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
@@ -16,8 +8,15 @@
       <a href="https://www.instagram.com/murilotischer" target="_blank">
          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  </div>
-  
-  ##
+
+## Oi! Eu sou o Murilo!! 👋
+
+##### - 🔭 I’m currently working on ARARA TI TECNOLOGIA DA INFORMAÇÃO...
+##### - 🌱 I’m currently learning the language java and other things...
+##### - 💬 Ask me about anything that you want...
+##### - 📫 How to reach me: (send me a e-mail for: murilo@ararati.com.br )...
+##
+
 <br/>
    <div align="left">
     <img align="center" alt="Mu-Java" height="70" width="90" 
