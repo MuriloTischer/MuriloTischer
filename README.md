@@ -7,12 +7,6 @@
 ##
 
 <div align="left">
-  <a href="https://github.com/MuriloTischer">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
-</div>
-    
-<div align="left">
      <a href = "mailto:murilotischer@gmail.com">
          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
      <a href="https://www.linkedin.com/in/murilo-tadeu-d-tischer" target="_blank">
@@ -43,6 +37,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original
        <img align="center" alt="Mu-Dart" height="75" width="100" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 ----
+
+
+<div align="left">
+  <a href="https://github.com/MuriloTischer">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
