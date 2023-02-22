@@ -1,4 +1,4 @@
-## Oi! Eu sou o Murilo!! 👋
+## Oi, Eu sou o Murilo!! 👋
 
   <div class="ui-g ui-fluid">
    <div align="left">
@@ -16,6 +16,7 @@
    <a href="https://github.com/MuriloTischer">
    <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloTischer&layout=compact&langs_count=7&theme=dark">
+     
    </a>
             
 </div> 
@@ -24,6 +25,7 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
             <img align="center" alt="Mu-PostgreSQL" height="70" width="75" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+   
    </div>
   </div>
 
