@@ -25,6 +25,8 @@
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
       <img align="center" alt="Mu-Dart" height="55" width="90" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+      <img align="center" alt="Mu-Flutter" height="60" width="90" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />       
    </div>
   <div align="center">
     <br>
