@@ -12,7 +12,7 @@
   
 <div align="center">
    <a href="https://github.com/MuriloTischer">
-   <img height="198em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=white&include_all_commits=true&count_private=true">
+   <img height="198em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=default&include_all_commits=true&count_private=true">
    
      
    </a>
