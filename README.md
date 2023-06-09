@@ -12,7 +12,7 @@
   
 <div align="center">
    <a href="https://github.com/MuriloTischer">
-   <img height="198em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=black&include_all_commits=true&count_private=true">
+   <img height="198em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=default&include_all_commits=true&count_private=true">
    
      
    </a>
@@ -31,7 +31,7 @@
   <div align="center">
     <br>
     Oi, Eu sou o Murilo!! 👋 </br>
-    📫 How to reach me: (send me a e-mail for: murilo@ararati.com.br )...
+    
   </div>
   </div>
 
@@ -56,6 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 ##### - 🔭 I’m currently working on ARARA TI TECNOLOGIA DA INFORMAÇÃO...
 ##### - 🌱 I’m currently learning the language java and other things...
 ##### - 💬 Ask me about anything that you want...
+📫 How to reach me: (send me a e-mail for: murilo@ararati.com.br )...
 
 ##
 
