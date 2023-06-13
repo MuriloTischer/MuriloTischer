@@ -10,10 +10,7 @@
          <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    </div>
   
-<div align="center">
-   <a href="https://github.com/MuriloTischer">
-   <img height="198em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=white&include_all_commits=true&count_private=true">
-   
+
      
    </a>
             
@@ -68,6 +65,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div align="center">
+   <a href="https://github.com/MuriloTischer">
+   <img height="198em" src="https://github-readme-stats.vercel.app/api/?username=MuriloTischer&show_icons=true&theme=white&include_all_commits=true&count_private=true">
+   
 
 -->
 
