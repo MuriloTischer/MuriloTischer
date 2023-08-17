@@ -1,4 +1,8 @@
-<div class="ui-g ui-fluid"> 
+<!DOCTYPE html>
+<html lang="pt-br">
+<body>
+    <div class="header">
+        <div class="ui-g ui-fluid"> 
    <div align="center">
       <a href = "mailto:murilotischer@gmail.com">
          <img  height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a> 
@@ -8,9 +12,7 @@
          <img height="30em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/murilotischer" target="_blank">
          <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   </div>
-  
-
+   </div> 
      
    </a>
             
@@ -25,12 +27,41 @@
       <img align="center" alt="Mu-Flutter" height="60" width="90" 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />       
    </div>
-  <div align="center">
-    <br>
-    Oi, Eu sou o Murilo!! 👋 </br>
+  <div align="center">   
+    </div>
+   </div>
+  </div>
     
-  </div>
-  </div>
+ <div class="content">
+        <h2>Sobre Mim</h2>
+        <p>Olá! Eu sou Murilo Tischer, apaixonado por sistemas e informações. Minha jornada me levou a explorar as maravilhas da tecnologia e sua interseção com o mundo dos dados.</p>
+        
+<h2>Projetos</h2>
+        <p>Eu tenho trabalhado em diversos projetos empolgantes que envolvem a criação e otimização de sistemas inteligentes para extrair informações valiosas a partir de dados complexos.</p>
+        
+<h2>Contato</h2>
+        <p>Você pode entrar em contato comigo pelo e-mail: murilo@ararati.com.br</p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2023 | Murilo Tischer |</p>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **MuriloTischer** 
