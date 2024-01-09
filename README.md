@@ -43,7 +43,7 @@
         <p>Você pode entrar em contato comigo pelo e-mail: murilo@ararati.com.br</p>
     </div>
     <div class="footer">
-        <p>&copy; 2023 | Murilo Tischer |</p>
+        <p>&copy; 1986 | Murilo Tischer |</p>
     </div>
 </body>
 </html>
