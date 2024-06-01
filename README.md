@@ -34,7 +34,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/mutischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mutischer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/murilo-tadeu-d-tischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilo-tadeu-d-tischer" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/murilotischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilotischer" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/murilotadeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="murilotadeu" height="30" width="40" /></a>
 <a href="https://fb.com/murilotischer86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murilotischer86" height="30" width="40" /></a>
 <a href="https://instagram.com/murilotischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murilotischer" height="30" width="40" /></a>
