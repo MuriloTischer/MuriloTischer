@@ -26,7 +26,7 @@
     
 </p>     
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me: </h2> 
 <p align="left">
 <a href="https://linkedin.com/in/murilotischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilotischer" height="30" width="40" /></a> 
 <a href="https://twitter.com/mutischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mutischer" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 <a href="https://instagram.com/murilotischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murilotischer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@murilotischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@murilotischer" height="30" width="40" /></a>
 <a href="https://discord.gg/murilotischer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murilotischer" height="30" width="40" /></a>
-   
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilotischer&label=Profile%20views&color=0e75b6&style=flat" alt="murilotischer" /></p>
@@ -42,7 +42,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilotischer&" alt="murilotischer" /></p>
   </div>
     <div class="footer">
-        <p>&copy; 1986 | Murilo Tischer |</p> 
+        <p>&copy; 1986 | Murilo Tischer | <a href="https://murilotischer.github.io">Portfólio</a></p>
    </div>
 </body>
 </html>
