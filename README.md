@@ -6,9 +6,7 @@
    
  <div class="content">
         <h2>Sobre Mim</h2>
-        <p> Olá! Eu sou Murilo Tischer, apaixonado por sistemas e informações. Minha jornada me levou a explorar as maravilhas da tecnologia e sua interseção com o mundo dos dados.
-        Minha paixão pelo desenvolvimento de software é impulsionada pela busca constante por inovação e melhoria. Com o apoio e as contribuições, posso criar soluções que não só atendem, 
-        mas superam as expectativas, promovendo um ambiente mais eficiente, conectado e colaborativo. Assim, podendo transformar ideias em realidade e construir um futuro tecnológico mais brilhante e inclusivo.</p>        
+        <p> Olá! Eu sou Murilo Tischer.</p>        
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
