@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilotischer&" alt="murilotischer" /></p>
   </div>
     <div class="footer">
-        <p>&copy; 1986 | Murilo Tischer | <a href="https://murilotischer.github.io">Portfólio</a></p>
+        <p>&copy; 1986 | Murilo Tischer | 
    </div>
 </body>
 </html>
@@ -50,6 +50,7 @@
 <!--
 **MuriloTischer** 
 ----
+ <a href="https://murilotischer.github.io">Portfólio</a></p>
  <img align="center" alt="Mu-Flutter" height="75" width="100" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
        <img align="center" alt="Mu-Dart" height="75" width="100" 
