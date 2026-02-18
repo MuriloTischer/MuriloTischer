@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <body>
-    
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilotischer" alt="murilotischer" /></a> </p>
-   
  <div class="content">
         <h2>Sobre Mim</h2>
         <p> Olá! Eu sou Murilo Tischer.</p>        
